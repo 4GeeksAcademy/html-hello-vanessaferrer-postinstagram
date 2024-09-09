@@ -1,0 +1,23 @@
+body{
+    background-color: gray;
+    height: 100vh;
+    margin:0;
+}
+.title-container{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    display: flex;
+    margin: auto;
+}
+.caja{
+    background-color: white;
+    display:flex;
+    width: 500px;
+
+    flex-direction: column;
+    margin: auto;
+    gap: 20px;
+    margin-bottom: 5px;
+}
